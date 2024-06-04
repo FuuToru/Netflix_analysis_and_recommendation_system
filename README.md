@@ -22,7 +22,7 @@ To explore the dashboard:
 
 1. Download Tableau desktop application.
 2. Clone this repository.
-3. Open `Netflix_dasboard_v2023.1.twbx` with Tableau.
+3. Open `Netflix_dasboard_v2023.1.twbx` with Tableau or you can see it at https://public.tableau.com/app/profile/dang.huu.tri/viz/Netflix_dasboard/Netflix
 4. Interact with the dashboard.
 
 ## Contact
